@@ -10,15 +10,15 @@ import Box from "./component/Box"
 const choice = {
   rock:{
     name:"Rock",
-    img:"https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEyL2pvYjk1OS1lbGVtZW50LWItMDEzNi14XzEuanBn.jpg"
+    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjwLvDG1Zgl3hsxUzfSx-xmAPOjw2BpJ9N5Q&s"
   },
   scissors:{
     name:"Scissors",
-    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBF9Opd4vWNcXIlk3aijAp8PYf3XZzUNRSHg&s"
+    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmK-SHc2kq5Oew2-lXeTKJNd2ZCS6XibEtQ&s"
   },
   paper:{
     name:"Paper",
-    img:"https://media.geeksforgeeks.org/wp-content/uploads/20210705223645/paper.jpeg"
+    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIwm3cMTjogLwPB31kgW63UyU2adX5GuJ-Pw&s"
   }
 }
 function App() {
